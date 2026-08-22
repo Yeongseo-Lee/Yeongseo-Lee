@@ -1,6 +1,6 @@
 # Hi, I'm Yeongseo Lee
 
-I am an PhD student in Nursing interested in digital health, healthcare AI, behavior change, and adaptive intervention design.
+I am a PhD student in Nursing interested in digital health, healthcare AI, behavior change, and adaptive intervention design.
 
 My current portfolio explores how walking behavior can be tracked, analyzed, translated into personalized micro-interventions, evaluated for safety and usability, and optimized through adaptive prompt timing.
 
